@@ -11,12 +11,12 @@
 
 ## Credits📜
 
-- ImDaClassic (Me): Made the entire bootstrapper and IU and features.
+- imdaclassic (@imdarealclassic) (Me): Made the entire bootstrapper and IU and features.
 - Exunys: Aimbot V3 Module
 - SYNX2025: ESP Script
 ## Links🔗
 
-[![My youtube (@imdaclassic)](https://img.shields.io/badge/My%20youtube-@imdaclassic-red?logo=youtube&logoColor=white)](https://www.youtube.com/@imdaclassic)
+[![My youtube (@imdaclassic)](https://img.shields.io/badge/My%20youtube-@imdaclassic-red?logo=youtube&logoColor=white)](https://www.youtube.com/@imdarealclassic)
 
 [![Aimbot V3 Module](https://img.shields.io/badge/Aimbot%20V3%20Module-Repo-black?logo=github&logoColor=white)](https://github.com/xoxodii/aimbot-v3)
 
@@ -35,4 +35,4 @@ After about 1-5 minutes you should see a GUI popup, if not retry, if that also d
 ## Why?🐋
 
 This code serves as an example for you, yes you to work on, make your own script kits and bootstrappers, heck even make your own scripts for roblox and make a bootstrapper for that!
-All in all, subscribe to my [youtube channel](https://www.youtube.com/@imdaclassic) pls
+All in all, subscribe to my [youtube channel](https://www.youtube.com/@imdarealclassic) pls
