@@ -1,5 +1,5 @@
 
--- sub to @imdaclassic on yt!
+-- sub to @imdarealclassic on yt!
 
 local ClassicBootstrapper = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
@@ -1270,7 +1270,7 @@ TextLabel_29.BorderSizePixel = 0
 TextLabel_29.Position = UDim2.new(0.243202418, 0, 0.146069393, 0)
 TextLabel_29.Size = UDim2.new(0.513595164, 0, 0.102123819, 0)
 TextLabel_29.Font = Enum.Font.Unknown
-TextLabel_29.Text = "Go sub to <u>@imdaclassic</u> on youtube"
+TextLabel_29.Text = "Go sub to <u>@imdarealclassic</u> on youtube"
 TextLabel_29.TextColor3 = Color3.fromRGB(255, 87, 20)
 TextLabel_29.TextScaled = true
 TextLabel_29.TextSize = 14.000
@@ -1327,7 +1327,7 @@ TextLabel_31.BorderSizePixel = 0
 TextLabel_31.Position = UDim2.new(0.087613292, 0, 0.846023023, 0)
 TextLabel_31.Size = UDim2.new(0.823262811, 0, 0.102123819, 0)
 TextLabel_31.Font = Enum.Font.Unknown
-TextLabel_31.Text = "https://www.youtube.com/@imdaclassic"
+TextLabel_31.Text = "https://www.youtube.com/@imdarealclassic"
 TextLabel_31.TextColor3 = Color3.fromRGB(255, 0, 0)
 TextLabel_31.TextScaled = true
 TextLabel_31.TextSize = 14.000
@@ -1393,7 +1393,7 @@ TextLabel_33.BorderSizePixel = 0
 TextLabel_33.Position = UDim2.new(0.243202418, 0, 0.146069393, 0)
 TextLabel_33.Size = UDim2.new(0.513595164, 0, 0.102123819, 0)
 TextLabel_33.Font = Enum.Font.Unknown
-TextLabel_33.Text = "Go sub to <u>@imdaclassic</u> on youtube"
+TextLabel_33.Text = "Go sub to <u>@imdarealclassic</u> on youtube"
 TextLabel_33.TextColor3 = Color3.fromRGB(255, 87, 20)
 TextLabel_33.TextScaled = true
 TextLabel_33.TextSize = 14.000
@@ -1429,7 +1429,7 @@ TextLabel_35.BorderSizePixel = 0
 TextLabel_35.Position = UDim2.new(0.087613292, 0, 0.846023023, 0)
 TextLabel_35.Size = UDim2.new(0.823262811, 0, 0.102123819, 0)
 TextLabel_35.Font = Enum.Font.Unknown
-TextLabel_35.Text = "https://www.youtube.com/@imdaclassic"
+TextLabel_35.Text = "https://www.youtube.com/@imdarealclassic"
 TextLabel_35.TextColor3 = Color3.fromRGB(255, 0, 0)
 TextLabel_35.TextScaled = true
 TextLabel_35.TextSize = 14.000
